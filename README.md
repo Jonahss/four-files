@@ -1,7 +1,11 @@
 four-files
 ===================
 
-Work in progress, stay tuned!
+## Run
+
+`npm install`
+`node .`
+
 
 ## Watch
 
