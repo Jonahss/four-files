@@ -4,6 +4,7 @@ four-files
 ## Run
 
 `npm install`
+`gulp once`
 `node .`
 
 
